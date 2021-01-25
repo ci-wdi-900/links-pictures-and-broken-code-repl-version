@@ -22,6 +22,10 @@ How do you do this? Just hit the "Run" button, or, **better yet**, hit Command-E
 
 Fortunately, once you fix this one, none of the other bugs should give you that issue. They'll only breeak their own tag, not the whole page. Which is good, because fixing system-breaking bugs like this is awfully hard if nothing tells you where it is!
 
+### Hints
+
+- For the last broken image, check out [this resource about file paths](https://www.w3schools.com/Html/html_filepaths.asp). These images are all using _relative file paths_, i.e., the images are stored on this server and accessed via their position relative to the `index.html` file.
+
 ### Good Luck
 
 And happy bug hunting!
