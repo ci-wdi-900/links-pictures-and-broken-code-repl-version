@@ -5,7 +5,10 @@ There are 5 tags that are wrong in some way in this page. They're written incorr
 ### Setup And Workflow
 
 1. Log into REPL.it if you aren't already.
-2.
+2. Hunt down your first mistake in the `index.html`.
+3. Fix it, and watch the REPL "fork" so that this project is now under YOUR username.
+4. Hunt down and fix the other bugs.
+5. Turn in the assignment.
 
 ### "Serving" Your Page
 
